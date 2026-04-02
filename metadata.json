@@ -1,0 +1,5 @@
+{
+  "name": "Super Mario Bros Clone",
+  "description": "A simple Super Mario Bros clone with enemies and secret tunnels.",
+  "requestFramePermissions": []
+}
